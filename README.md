@@ -16,3 +16,7 @@
 *купить подарок 
 -поехать домой  
 *начать делать второе задание по УП 
+
+
+
+![Image of cat](https://github.com/blademoon/Markdown/blob/main/Picture/cat.jpg)
