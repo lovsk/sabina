@@ -18,6 +18,5 @@
 *начать делать второе задание по УП 
 
 
-
-![Image of cat]![image](https://github.com/user-attachments/assets/b7de69b7-f1c7-4a91-8a1d-1acc5098b7bd)
+[image](https://github.com/user-attachments/assets/b7de69b7-f1c7-4a91-8a1d-1acc5098b7bd)
 
